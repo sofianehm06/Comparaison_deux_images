@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Rapports générés
+rapport_comparaison*.png
+rapport_comparaison*.jpg
+_apercu_*.png
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Réglages locaux de l'éditeur / Claude Code
+.claude/
+.vscode/
+.idea/
